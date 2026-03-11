@@ -1,2 +1,3 @@
 # UTHM-Residential-Complaint-System-
-Developed a web-based complaint management system to replace manual reporting in residential colleges. It allows fellows and staff to submit, track, and manage student complaints efficiently. Features include online complaint submission, role-based admin access, real-time status tracking, and centralized database storage.
+Developed a web-based complaint management system to replace the manual reporting process used by residential colleges. The system allows fellows and staff to record, track, and manage student complaints efficiently. Key features include online complaint submission, staff admin role separation, real-time complaint status tracking, centralized database storage, and a user-friendly interface designed for fast reporting and improved workflow.
+Technologies Used: HTML, CSS, PHP, SQL, XAMPP, phpMyAdmin
